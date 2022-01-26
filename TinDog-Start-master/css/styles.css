@@ -58,7 +58,22 @@ h1 {
     text-align: center;
     font-size: 4rem;
     margin-top: 100px;
+    margin-bottom: 100px;
 }
+
+.easy-to-use {
+    margin-bottom: 100px;
+}
+
+.elite-clientel {
+    margin-bottom: 100px;
+}
+
+.guaranteed-work {
+    margin-bottom: 100px;
+}
+
+/* coloring icon */
 
 .icon-fa-check-circle {
     color: #77D970;
@@ -71,6 +86,21 @@ h1 {
 .icon-fa-heart {
     color: #77D970;
 }
+
+/* hoverig each icon */
+
+.icon-fa-check-circle:hover {
+    color: #FF0000;
+}
+
+.icon-fa-bullseye:hover {
+    color: #FF0000;
+}
+
+.icon-fa-heart:hover {
+    color: #FF0000;
+}
+
 
 #features h3 {
     font-size: 2.5rem;
