@@ -112,3 +112,40 @@ h1 {
     width: 60%;
     margin: auto;
 }
+
+
+/* testimonials */
+
+#testimonials {
+    background-color: #FDEBF7;
+    text-align: center;
+    padding:7% 20%;
+
+}
+
+#testimonials h2 {
+    line-height: 1.5;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+
+#testimonials img {
+    width: 15%;
+    border-radius: 360px;
+    padding: 30px;
+}
+
+
+/* press */
+
+#press {
+    background-color: #FDEBF7;
+    text-align: center;
+    padding: 20px 40px 50px;
+}
+
+.press-logo {
+    margin: 0px 20px;
+    width: 15%;
+}
