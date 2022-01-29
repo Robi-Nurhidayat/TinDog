@@ -154,3 +154,15 @@ h1 {
     margin: 0px 20px;
     width: 15%;
 }
+
+
+/* pricing section */
+
+#pricing {
+    padding: 100px;
+}
+
+.pricing-column {
+    text-align: center;
+    padding: 3% 2%;
+}
