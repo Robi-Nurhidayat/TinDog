@@ -18,7 +18,7 @@ h1 {
 
 
 .container-fluid {
-    padding: 3% 15%;
+    padding: 3% 15% 7%;
     
 }
 
@@ -55,6 +55,7 @@ h1 {
     width: 60%;
     transform: rotate(20deg);
     position: absolute;
+    right: 20%;
 }
 
 
@@ -66,6 +67,7 @@ h1 {
     padding: 7% 15%;
     position: relative;
     z-index: 1;
+    background-color: #fff;
 }
 
 .easy-to-use {
