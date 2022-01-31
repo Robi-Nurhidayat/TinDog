@@ -175,3 +175,17 @@ h1 {
     text-align: center;
     padding: 3% 2%;
 }
+
+
+@media (max-width:1028px) {
+    
+    #title {
+        text-align: center;
+        font-size: 10px;
+    }
+    .image-title {
+        position: static;
+        transform: rotate(0);
+    }
+    
+}
