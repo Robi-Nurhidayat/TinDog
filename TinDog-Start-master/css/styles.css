@@ -176,6 +176,42 @@ h1 {
     padding: 3% 2%;
 }
 
+#cta {
+    background-color: #FFADAD;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+#cta .btn {
+    margin: 7% 1%;
+}
+
+#cta h3 {
+    font-size: 70px;
+    font-weight: 700;
+    color: #fff;
+}
+
+/* footer */
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 5% 10%;
+    font-size: 20px;
+}
+
+#footer .fab {
+    margin: 0 20px;
+}
+
+#footer .fas {
+    margin: 0 20px;
+}
+
+#footer p {
+    margin-top: 40px;
+}
 
 @media (max-width:1028px) {
     
